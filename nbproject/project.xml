@@ -3,7 +3,19 @@
     <type>org.netbeans.modules.java.j2seproject</type>
     <configuration>
         <data xmlns="http://www.netbeans.org/ns/j2se-project/3">
+<<<<<<< HEAD
             <name>Una_prueba_mas</name>
+=======
+<<<<<<< HEAD
+            <name>Para Quedar al Hilo</name>
+=======
+<<<<<<< HEAD
+            <name>Todo</name>
+=======
+            <name>abstraccion</name>
+>>>>>>> origin/master
+>>>>>>> origin/master
+>>>>>>> origin/master
             <source-roots>
                 <root id="src.dir"/>
             </source-roots>
